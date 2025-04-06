@@ -1,3 +1,10 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/nomad-parser-plugins-electronic"]
+	path = packages/nomad-parser-plugins-electronic
+	url = https://github.com/16-vikrant/electronic-parsers.git
+
+[submodule "packages/nomad-parser-wannierberri"]
+	path = packages/nomad-parser-wannierberri
+	url = https://github.com/16-vikrant/nomad-parser-wannierberri.git
